@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">tempolocal</string>
+    <string name="title_activity_main">tempolocal</string>
+    <string name="package_name">com.michahsbrain.tempolocal</string>
+    <string name="custom_url_scheme">com.michahsbrain.tempolocal</string>
+</resources>
