@@ -1,0 +1,6 @@
+{
+  "name": "TempoLocal",
+  "description": "Calendrier dynamique hors ligne avec génération automatique de planning, routines quotidiennes et réorganisation intelligente par importance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
